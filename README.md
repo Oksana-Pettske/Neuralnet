@@ -1,2 +1,2 @@
 # Neuralnet
-Information security. Lab6
+Information security. Lab 6
